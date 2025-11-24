@@ -5,7 +5,7 @@
 
 ```yaml
 name: "Koushik Saha"
-email_id: "mail2kppp27@gmail.com"
+email_id: "thekoushiksaha@zohomail.in"
 phone_no: "+91-98511 82515"
 
 located_in:

@@ -19,7 +19,7 @@ company_name: "Aditya Birla Health Insurance Co. Ltd."
 
 education:
   - "Self-Taught Developer and Designer"
-  - "Bachelor's in Information Technology"
+  - "Bachelor of Science in Information Technology"
   - "Higher Diploma in Software Engineering from NIIT"
 
 technical_knowledge:

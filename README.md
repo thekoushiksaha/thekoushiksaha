@@ -35,6 +35,7 @@ technical_knowledge:
   web_development:
     - "HTML"
     - "CSS"
+    - "Tailwindcss"
     - "Bootstrap"
     - "React"
     - "React Native"
@@ -77,7 +78,7 @@ currently_learning:
 professional_fields_of_interest:
   software_development: "Focused on leveraging a broad spectrum of programming languages including Python, Java, JavaScript, C#, C++, C, and PHP to develop robust, scalable software solutions. Emphasizes strong foundations in data structures, algorithms, and RESTful API design to ensure efficient and maintainable code. Skilled in both object-oriented and procedural programming paradigms to address diverse development challenges."
 
-  web_development: "Expertise in building modern, responsive, and user-centric web applications using core web technologies such as HTML, CSS, and Bootstrap, enhanced by frontend frameworks like React and React Native. Capable of creating dynamic, interactive interfaces with an emphasis on performance and cross-browser compatibility, while integrating backend services for full-stack development."
+  web_development: "Expertise in building modern, responsive, and user-centric web applications using core web technologies such as HTML, CSS, Tailwindcss and Bootstrap, enhanced by frontend frameworks like React and React Native. Capable of creating dynamic, interactive interfaces with an emphasis on performance and cross-browser compatibility, while integrating backend services for full-stack development."
 
   mobile_application_development: "Specialized in cross-platform mobile app development using React Native and React Native Expo, enabling creation of performant and visually appealing apps for both Android and iOS platforms. Focused on delivering seamless user experiences by combining native device capabilities with efficient code reuse across platforms."
 
@@ -130,7 +131,7 @@ ___
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/json/json-original.svg" alt="json" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/xml/xml-original.svg" alt="xml" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/neovim/neovim-original-wordmark.svg" alt="neovim" width="45" height="45"/>
-
+<img scr="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="45" height="45"/>
 </p>
 
 

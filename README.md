@@ -131,7 +131,7 @@ ___
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/json/json-original.svg" alt="json" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/xml/xml-original.svg" alt="xml" width="45" height="45"/>
 <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/neovim/neovim-original-wordmark.svg" alt="neovim" width="45" height="45"/>
-<img scr="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="45" height="45"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="45" height="45"/>
 </p>
 
 
